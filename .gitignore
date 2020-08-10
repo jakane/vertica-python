@@ -1,8 +1,11 @@
 *.py[cod]
 test.py
+.idea/
+.venv/
 
 # Test configuration
 vp_test.conf
+vp_test_log
 
 # C extensions
 *.so
